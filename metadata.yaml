@@ -1,0 +1,35 @@
+_repo: Vain-tyton-rakkaus_69100
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Garvice, Charles
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '3498'
+    url: http://www.gutenberg.org/2009/agents/3498
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Garvice
+description: ''
+gutenberg_issued: '2022-10-06'
+identifiers:
+  gutenberg: '69100'
+language: fi
+pgterms:marc905: 20220218015529garvice
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vain tytön rakkaus
+url: http://www.gutenberg.org/ebooks/69100
